@@ -14,7 +14,6 @@ I aim to combine my academic knowledge with practical applications to make meani
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-velice-patricia/)  
 
 ---
-
 ## 💻 Tech Stack  
 
 ### 🐍 Programming & Data Analysis  
@@ -37,15 +36,18 @@ I aim to combine my academic knowledge with practical applications to make meani
 ![Spacy](https://img.shields.io/badge/spaCy-%23006699.svg?style=for-the-badge&logo=spacy&logoColor=white)  
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
 
-### 📊 Visualization & BI  
+### 📊 Data Visualization & BI  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
 
-### 🛠️ Tools & Others  
+### 🎨 Design & Prototyping  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+
+### 🛠️ Tools & Others  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
